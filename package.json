@@ -1,0 +1,13 @@
+{
+  "name": "com.astarbr.dotween-integration",
+  "version": "1.2.705",
+  "displayName": "DOTween Integration",
+  "description": "AstarAssets integration for DOTween.",
+  "unity": "2021.3",
+  "author": {
+    "name": "AstarAssets",
+    "email": "support@astarbr-assets.store",
+    "url": "https://noto.li/v7yftV"
+  },
+  "_fingerprint": "76d1093bbe779b8ac71a96a23e4e6e1c171db47b"
+}
