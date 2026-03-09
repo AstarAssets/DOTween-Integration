@@ -27,7 +27,6 @@ This package is installed automatically by the **Essential Tools Setup Wizard** 
 2. Click the **`+`** button in the top-left corner
 3. Select **Add package from Git URL...**
 4. Enter the URL below and click **Add**
-
 ```
 https://github.com/AstarAssets/DOTween-Integration.git
 ```
