@@ -2,12 +2,23 @@
     "name": "com.astarbr.dotween-integration",
     "version": "1.0.0",
     "displayName": "DOTween Integration",
-    "description": "Integration of the open-source DOTween for AstarAssets Essential Tools.",
+    "description": "Unity Package Manager integration of DOTween by Demigiant. Maintained by AstarAssets as a required dependency for Essential Tools.",
     "unity": "2021.3",
+    "unityRelease": "0f1",
+    "documentationUrl": "https://astarassets.github.io/EssentialToolsAPI/",
+    "changelogUrl": "https://github.com/AstarAssets/DOTween-Integration/releases",
+    "licensesUrl": "https://github.com/Demigiant/dotween/blob/master/LICENSE",
     "author": {
         "name": "AstarAssets",
         "email": "support@astarbr-assets.store",
         "url": "https://noto.li/v7yftV"
     },
+    "keywords": [
+        "dotween",
+        "tween",
+        "animation",
+        "demigiant",
+        "upm"
+    ],
     "dependencies": {}
 }
