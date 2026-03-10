@@ -1,6 +1,6 @@
-# Odin Serializer Integration — UPM
+# DOTween Integration — UPM
 
-**UPM-compatible integration of [Odin Serializer](https://github.com/TeamSirenix/odin-serializer) for Unity, maintained by [AstarAssets](https://noto.li/v7yftV) as a required dependency for Essential Tools.**
+**UPM-compatible integration of [DOTween](https://github.com/Demigiant/dotween) for Unity, maintained by [AstarAssets](https://noto.li/v7yftV) as a required dependency for Essential Tools.**
 
 > ⚠️ This is not a standalone package. It is designed to be installed automatically by AstarAssets products. Manual installation is also supported.
 
@@ -29,22 +29,22 @@ This package is installed automatically by the **Essential Tools Setup Wizard** 
 4. Enter the URL below and click **Add**
 
 ```
-https://github.com/AstarAssets/Odin-Serializer-Integration.git
+https://github.com/AstarAssets/DOTween-Integration.git
 ```
 
 ---
 
-## 🔎 About Odin Serializer
+## 🔎 About DOTween
 
-Odin Serializer is a fast, cross-platform, open-source serializer developed and maintained by [Sirenix](https://sirenix.net), available under the **Apache 2.0** license.
+DOTween is a fast, efficient, fully type-safe object-oriented animation engine for Unity, developed and maintained by [Demigiant](http://www.demigiant.com), available under the **MIT** license.
 
-This repository provides only the UPM manifest wrapper (`package.json`) required for Unity Package Manager resolution. AstarAssets does not own or maintain Odin Serializer.
+This repository provides only the UPM manifest wrapper (`package.json`) required for Unity Package Manager resolution. AstarAssets does not own or maintain DOTween.
 
 | Resource | Link |
 |----------|------|
-| Official Repository | [TeamSirenix/odin-serializer](https://github.com/TeamSirenix/odin-serializer) |
-| Supported Types Docs | [odininspector.com](https://odininspector.com/tutorials/using-odin-serializer/supported-types) |
-| License | [Apache 2.0](https://github.com/TeamSirenix/odin-serializer/blob/master/LICENSE) |
+| Official Repository | [Demigiant/dotween](https://github.com/Demigiant/dotween) |
+| Documentation | [dotween.demigiant.com](http://dotween.demigiant.com/documentation.php) |
+| License | [MIT](https://github.com/Demigiant/dotween/blob/master/LICENSE) |
 
 ---
 
@@ -58,14 +58,14 @@ For issues related to this UPM integration or AstarAssets products, reach out th
 | 🌐 Website | [AstarAssets](https://noto.li/v7yftV) |
 | 📖 Documentation | [Essential Tools API](https://astarassets.github.io/EssentialToolsAPI/) |
 
-For bugs or issues in Odin Serializer itself, please use the [Sirenix official issue tracker](https://github.com/TeamSirenix/odin-serializer/issues).
+For bugs or issues in DOTween itself, please use the [Demigiant official issue tracker](https://github.com/Demigiant/dotween/issues).
 
 ---
 
 ## 📄 License
 
-Odin Serializer is licensed under the **Apache License 2.0**.
-See the full license in the [original repository](https://github.com/TeamSirenix/odin-serializer/blob/master/LICENSE).
+DOTween is licensed under the **MIT License**.
+See the full license in the [original repository](https://github.com/Demigiant/dotween/blob/master/LICENSE).
 
 ---
 
